@@ -1,11 +1,20 @@
 # Innovation Digital Technology
-This is a Reactjs Project. It is divided into three parts first navigation bar with title, second shows Mesurement to uur success with beautiful image and titles and third part showing us we are working with which industries.
+This is a Reactjs Project. It is divided into three parts first navigation bar with title, second shows Mesurement to our success with beautiful image and titles and third part showing us we are working with which industries.
 
-# Live
+# Live : https://brilliant-cranachan-ac467f.netlify.app/
 
 # Features
+  * Responsive
 
+# Tech Stack : ReactJS
+  
 # Screenshots
+![Screenshot (95)](https://user-images.githubusercontent.com/76946978/201176768-8cad6259-4b0f-4526-98b6-8e94a866bdc8.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/76946978/201176810-863cc15d-7a17-464f-95b2-985b41c2c079.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/76946978/201176674-f9bf0d58-cb79-42b3-b655-057ac00e5e06.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
