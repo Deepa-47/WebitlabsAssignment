@@ -1,5 +1,5 @@
 # Innovation Digital Technology
-This is a Reactjs Project. It is divided into three parts first navigation bar with title, second shows Mesurement to our success with beautiful image and titles and third part showing us we are working with which industries.
+This is a Reactjs Project. It is divided into three parts first navigation bar with title, second shows Measurement to our success with beautiful image and titles and third part showing us we are working with which industries.
 
 # Live : https://brilliant-cranachan-ac467f.netlify.app/
 
